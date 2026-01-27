@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Homepage"
+site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Homepage"
-description              : &description "Independent Researcher"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Your Name"
+description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://rgren-research.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,21 +24,21 @@ repository               : "rgren-research/rgren-research.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Ruiguo Ren" # "Your Sidebar Name11"
+  name             : "88888888888888888888"
   pronouns         : # example: "she/her"  
-  bio              : "Independent Researcher"
-  location         : "Beijing"
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
   employer         : "Red Brick University"
-  uri              : "rgren-research" # URL
-  email            : "studenttygsjtygmx@gmail.com" 
+  uri              : # URL
+  email            : "none@example.org" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=APjjwuY4r9Lnf9vUDkUMT58TlZ429X1jFl85Inq2mBa6aIsxND6miAWcBWQvRZmGwjaA8hi9xgj7NpQYO8QxLUX3_qI&user=97oT5CIAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0002-4866-1601"
+  orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

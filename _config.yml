@@ -24,13 +24,13 @@ repository               : "rgren-research/rgren-research.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "66666666" # "Your Sidebar Name11"
+  name             : "Ruiguo Ren" # "Your Sidebar Name11"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Independent Researcher"
   location         : "Earth"
   employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  uri              : "rgren-research" # URL
+  email            : "studenttygsjtygmx@gmail.com" 
 
   # Academic websites
   academia         : # URL

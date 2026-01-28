@@ -1,11 +1,11 @@
 # Authors
 
 rgren-research:
-  name        : "rgren-research"
-  uri         : "https://rgren-research.github.io/"
-  email       : "studenttygsjtygmx@gmail.com"
-  bio         : "Independent Researcher"
-  avatar      : "/images/rg.png"
+    name        : "rgren-research"
+    uri         : "https://rgren-research.github.io/"
+    email       : "studenttygsjtygmx@gmail.com"
+    bio         : "Independent Researcher"
+    avatar      : "/images/rg.png"
   #twitter     : "name"
   #google_plus : "Name"
 

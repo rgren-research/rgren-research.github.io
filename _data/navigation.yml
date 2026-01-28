@@ -9,19 +9,19 @@
 
 main:
   - title: "About Me"
-    url: /about Me/
+    url: /#about Me
 
   - title: "Education"
-    url: /education/    
+    url: /#education    
 
   - title: "Work"
-    url: /work-experience/    
+    url: /#work-experience    
     
   - title: "Selected Publications"
-    url: /selected-publications/
+    url: /#selected-publications
         
   - title: "Selected Honors"
-    url: /selected honors/
+    url: /#selected honors
     
   - title: "CV"
     url: /cv/

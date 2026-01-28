@@ -23,7 +23,7 @@ repository               : "rgren-research/rgren-research.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "rg.png"
+  avatar           : "/images/rg.png"
   name             : "Ruiguo Ren"
   pronouns         : # example: "she/her"  
   bio              : "Independent Researcher"

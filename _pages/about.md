@@ -9,7 +9,7 @@ redirect_from:
 
 ## 👋 About Me
 
-I am currently a Ph.D. student in Computer Science.  
+I am currently a researcher and system developer. 
 My research interests include **computer vision**, **model compression**, and **efficient deep learning**.
 
 Before that, I received my M.S. degree in Computer Science and my B.E. degree in Computer Science.  
@@ -19,20 +19,21 @@ I am particularly interested in lightweight vision models and practical deployme
 
 ## 🎓 Education
 
-- **2024.09 – Present**  
-  Ph.D. in Computer Science, *University A*, China  
+- **2015.09 – 2018.06 Graduated**  
+  M.S. in Computer Science, *Xi'an University of Technology*, China  
 
-- **2021.09 – 2024.06**  
-  M.S. in Computer Science, *University B*, China  
-
-- **2017.09 – 2021.06**  
+- **2014.06 Graduated**  
   B.E. in Computer Science, *University C*, China  
 
 ---
 
 ## 💼 Work Experience
 
-**None**
+- **2019.03 – Present**  
+  Entrepreneurial Projects, Independent Research, China  
+
+- **2018.06 – 2019.3**  
+  Ph.D. in Computer Science, *graduate School*, China  
 
 ---
 

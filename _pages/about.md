@@ -42,16 +42,17 @@ I am particularly interested in lightweight vision models and practical deployme
 ### Conference Proceedings
 
 1. **Author A**, Author B.  
-   *Efficient Vision Transformer via Structured Pruning and Quantization*.  
+   *None*.  
    In *Proceedings of the International Conference on Computer Vision*, 2025.  
    [[PDF]](#)
 
 ### Journal Articles
 
-1. **Author A**, Author B.  
-   *Lightweight Vision Models for Resource-Constrained Devices*.  
-   *IEEE Transactions on Image Processing*, 2024.  
+[1] **Author Ruiguo Ren.**  
+   *FHPG: A Unified Framework for Transformer with Pruning and Quantization*.  
+   *Pattern Recognition Letters*, 2026.  
    [[PDF]](#)
+
 
 ---
 

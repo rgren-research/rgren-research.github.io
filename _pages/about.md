@@ -1,11 +1,4 @@
----
-permalink: /
-title: "Homepage"
-author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
----
+
 
 ## 👋 About Me
 
@@ -58,13 +51,13 @@ I am particularly interested in lightweight vision models and practical deployme
 
 ## 🏆 Selected Honors
 
-- Outstanding Graduate Award, 2024  
+- None  
 - National Scholarship, 2023  
 
 ---
 
 ## 📌 Regular Review
 
-- IEEE Transactions on Pattern Analysis and Machine Intelligence  
+- None  
 - IEEE Transactions on Image Processing  
-- CVPR / ICCV / ECCV
+- None

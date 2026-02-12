@@ -12,8 +12,8 @@ redirect_from:
 I am currently a researcher and system developer. 
 My research interests include **computer vision**, **model compression**, and **efficient deep learning**.
 
-Before that, I received my M.S. degree in Computer Science and my B.E. degree in Computer Science.  
-I am particularly interested in lightweight vision models and practical deployment of deep neural networks.
+Before that, I received my M.S. degree in Software Engineering and my B.E. degree in Computer Science.  
+I am particularly interested in lightweight vision models and the practical deployment of deep neural networks, as well as interdisciplinary research areas such as artificial intelligence combined with biomedicine.
 
 ---
 
@@ -21,14 +21,12 @@ I am particularly interested in lightweight vision models and practical deployme
 
 - **2015.09 – 2018.06 Graduated**  
   M.S. in Computer Science, *XAUT*, China  
-
 ---
 
 ## 💼 Work Experience
 
 - **2018.07 – Present**  
   Entrepreneurial Projects, Independent Research, China  
-
 ---
 
 ## 📝 Selected Publications
@@ -43,15 +41,14 @@ I am particularly interested in lightweight vision models and practical deployme
 [1] **Author Ruiguo Ren.**  
    *FHPG: A Unified Framework for Transformer with Pruning and Quantization*.  
    *Pattern Recognition Letters*, 2026.  
-   [[PDF]](#)
-
-
+   [[PDF]](#https://doi.org/10.1016/j.patrec.2026.01.020)
+   
 ---
 
 ## 🏆 Selected Honors
 
-- None  
-- 
+- None
+  
 ---
 
 ## 📌 Regular Review

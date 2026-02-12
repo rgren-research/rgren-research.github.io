@@ -41,7 +41,7 @@ I am particularly interested in lightweight vision models and the practical depl
 [1] **Author Ruiguo Ren.**  
    *FHPG: A Unified Framework for Transformer with Pruning and Quantization*.  
    *Pattern Recognition Letters*, 2026.  
-   [[PDF]](#https://doi.org/10.1016/j.patrec.2026.01.020)
+   [[PDF]](https://doi.org/10.1016/j.patrec.2026.01.020)
    
 ---
 

@@ -9,11 +9,7 @@ redirect_from:
 
 ## 👋 About Me
 
-I am currently a researcher and system developer. 
-My research interests include **computer vision**, **model compression**, and **efficient deep learning**.
-
-Before that, I received my M.S. degree in Software Engineering and my B.E. degree in Computer Science.  
-I am particularly interested in lightweight vision models and the practical deployment of deep neural networks, as well as interdisciplinary research areas such as artificial intelligence combined with biomedicine.
+I am currently a researcher and system developer. My research interests include **computer vision**, **model compression**, and **efficient deep learning**. Before that, I received my M.S. degree in Software Engineering and my B.E. degree in Computer Science. I am particularly interested in lightweight vision models and the practical deployment of deep neural networks, as well as interdisciplinary research areas such as artificial intelligence combined with biomedicine.
 
 ---
 

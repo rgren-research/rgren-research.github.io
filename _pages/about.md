@@ -20,20 +20,14 @@ I am particularly interested in lightweight vision models and practical deployme
 ## 🎓 Education
 
 - **2015.09 – 2018.06 Graduated**  
-  M.S. in Computer Science, *Xi'an University of Technology*, China  
-
-- **2014.06 Graduated**  
-  B.E. in Computer Science, *University C*, China  
+  M.S. in Computer Science, *XAUT*, China  
 
 ---
 
 ## 💼 Work Experience
 
-- **2019.03 – Present**  
+- **2018.07 – Present**  
   Entrepreneurial Projects, Independent Research, China  
-
-- **2018.06 – 2019.3**  
-  Ph.D. in Computer Science, *graduate School*, China  
 
 ---
 
@@ -43,9 +37,7 @@ I am particularly interested in lightweight vision models and practical deployme
 
 1. **Author A**, Author B.  
    *None*.  
-   In *Proceedings of the International Conference on Computer Vision*, 2025.  
-   [[PDF]](#)
-
+   
 ### Journal Articles
 
 [1] **Author Ruiguo Ren.**  
@@ -59,12 +51,9 @@ I am particularly interested in lightweight vision models and practical deployme
 ## 🏆 Selected Honors
 
 - None  
-- National Scholarship, 2023  
-
+- 
 ---
 
 ## 📌 Regular Review
 
 - None  
-- IEEE Transactions on Image Processing  
-- None

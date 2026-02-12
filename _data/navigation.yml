@@ -20,17 +20,17 @@ main:
   - title: "Work"
     url: /#work-experience    
     
-  - title: "Selected Publications"
+  - title: "Publications"
     url: /#selected-publications
         
   - title: "Selected Honors"
     url: /#selected honors
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/

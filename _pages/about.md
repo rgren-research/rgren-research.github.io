@@ -34,11 +34,14 @@ I am currently a researcher and system developer. My research interests include 
    
 ### Journal Articles
 
-[1] **Author Ruiguo Ren.**  
-   *FHPG: A Unified Framework for Transformer with Pruning and Quantization*.  
-   *Pattern Recognition Letters*, 2026.  
-   [[PDF]](https://doi.org/10.1016/j.patrec.2026.01.020)
-   
+[1] Ruiguo Ren. Fhpg: A unified framework for transformer with pruning and quantization. Pattern Recognition Letters, 201:174–179, 2026.
+    [[PDF]](https://doi.org/10.1016/j.patrec.2026.01.020)
+
+### Master's dissertation
+
+[1] **Author Ruiguo Ren(任瑞国).** 
+     *《基于符号化执行的测试用例自动生成方法研究》*. 
+     *Pattern Recognition Letters*, 2018. 
 ---
 
 ## 🏆 Selected Honors

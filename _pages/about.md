@@ -39,7 +39,7 @@ I am currently a researcher and system developer. My research interests include 
 
 ### Master's dissertation
 
-[1] *Author Ruiguo Ren(任瑞国)**
+[1] *Author Ruiguo Ren(任瑞国)*
      *《基于符号化执行的测试用例自动生成方法研究》*. 
      *Pattern Recognition Letters*, 2018. 
 ---

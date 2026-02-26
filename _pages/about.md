@@ -29,8 +29,6 @@ I am currently a researcher and system developer. My research interests include 
 
 ### Conference Proceedings
 
-1. **Author A**, Author B.  
-   *None*.  
    
 ### Journal Articles
 

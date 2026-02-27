@@ -38,7 +38,7 @@ I am currently a researcher and system developer. My research interests include 
 ### Master's dissertation
 
 [1] **Ruiguo Ren(任瑞国)**
-     《基于符号化执行的测试用例自动生成方法研究》( Symbolic Execution-Based Automatic Test Case Generation: A Methodological Study ). 
+     《基于符号化执行的测试用例自动生成方法研究》( "Symbolic Execution-Based Automatic Test Case Generation: A Methodological Study" ). 
       XAUT, 2018. [[PDF]](https://kns.cnki.net/kcms2/article/abstract?v=oGHOruzuSDPi2-IOJLmLvV1B6Aitd9ggvcjVb4Cv5M2tNUN2WV6Kzd32UuOgid-uuyG-2nNvatG8FEvzh5dlYURNIu7gwzVM1UTXlxsRb3TjhJMJPdhKzD0eLNNYiKdqI6-7pbkIXZoT9-fqt7Bgsm-dYdUlnHVDRMWilTSyMaY=&uniplatform=NZKPT&language=CHS)
 
 

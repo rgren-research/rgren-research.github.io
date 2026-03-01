@@ -33,13 +33,13 @@ I am currently a researcher and system developer. My research interests include 
 ### Journal Articles
 
 [1] **Ruiguo Ren**. Fhpg: A unified framework for transformer with pruning and quantization. Pattern Recognition Letters, 201:174–179, 2026.
-    [[PDF]](https://doi.org/10.1016/j.patrec.2026.01.020)
+    [[link]](https://doi.org/10.1016/j.patrec.2026.01.020)
 
 ### Master's dissertation
 
 [1] **Ruiguo Ren(任瑞国)**
      《基于符号化执行的测试用例自动生成方法研究》( "A Study on Automatic Test Case Generation Based on Symbolic Execution" ). 
-      XAUT, 2018. [[PDF]](https://kns.cnki.net/kcms2/article/abstract?v=oGHOruzuSDPi2-IOJLmLvV1B6Aitd9ggvcjVb4Cv5M2tNUN2WV6Kzd32UuOgid-uuyG-2nNvatG8FEvzh5dlYURNIu7gwzVM1UTXlxsRb3TjhJMJPdhKzD0eLNNYiKdqI6-7pbkIXZoT9-fqt7Bgsm-dYdUlnHVDRMWilTSyMaY=&uniplatform=NZKPT&language=CHS)
+      XAUT, 2018. [[link]](https://kns.cnki.net/kcms2/article/abstract?v=oGHOruzuSDPi2-IOJLmLvV1B6Aitd9ggvcjVb4Cv5M2tNUN2WV6Kzd32UuOgid-uuyG-2nNvatG8FEvzh5dlYURNIu7gwzVM1UTXlxsRb3TjhJMJPdhKzD0eLNNYiKdqI6-7pbkIXZoT9-fqt7Bgsm-dYdUlnHVDRMWilTSyMaY=&uniplatform=NZKPT&language=CHS)
 
 
 ## 🏆 Selected Honors
